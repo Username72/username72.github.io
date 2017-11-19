@@ -7,7 +7,7 @@ img.photo { display: block; margin: auto; width: 100pt }
 
 p { color: white; font-family: Arial; text-align: left; font-size: 13pt; margin-right: 5em}
 p.headline {color: beige; font-family: Arial; text-align: left; font-size: 18pt}
-p.fpage { color: beige; font-family: Arial; text-align: center; font-size: 13pt; margin-left: 0.4em; margin-bottom: 0em;}
+p.fpage { color: beige; font-family: Arial; text-align: center; font-size: 13pt; margin-left: 3em; margin-bottom: 0em;}
 p.fpage2 { color: yellow; font-family: Arial; text-align: center; font-size: 22pt; margin-left: 4em; margin-top: 0em; margin-bottom: 0em;}
 
 ol { color: yellow; font-family: serif; text-align: left; font-size: 20pt}
