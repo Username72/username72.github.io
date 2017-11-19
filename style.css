@@ -1,0 +1,15 @@
+body { background-color: black; background-image: url("./images/back.jpg")}
+
+h1 {color: yellow; font-family: Helvetica; text-align: center; font-size: 30pt; margin-left: 0.2em;  margin-top: 0em;}
+
+img.photo { display: block; margin: auto; width: 100pt }
+
+
+p { color: white; font-family: Arial; text-align: left; font-size: 13pt; margin-right: 5em}
+p.headline {color: beige; font-family: Arial; text-align: left; font-size: 18pt}
+p.fpage { color: beige; font-family: Arial; text-align: center; font-size: 13pt; margin-left: 0.4em; margin-bottom: 0em;}
+p.fpage2 { color: yellow; font-family: Arial; text-align: center; font-size: 22pt; margin-left: 4em; margin-top: 0em; margin-bottom: 0em;}
+
+ol { color: yellow; font-family: serif; text-align: left; font-size: 20pt}
+
+ul { color: beige; font-family: serif; text-align: center; font-size: 14pt; margin-right: 4em;}
